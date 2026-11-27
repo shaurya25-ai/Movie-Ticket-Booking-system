@@ -16,5 +16,5 @@ Run checks with `java MovieTicketBookingTest`. Bookings are stored in memory and
 - `Movie-Ticket-Booking-System.pptx` — editable PowerPoint presentation.
 - `Movie-Ticket-Booking-System-Report.docx` — editable Word report.
 
-Prepared by Shaurya Dalal, ERP RU-25-11344.
+Prepared by Shaurya Khandelwal, ERP RU-25-11344.
 
